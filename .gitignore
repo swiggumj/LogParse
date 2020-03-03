@@ -1,0 +1,6 @@
+# no .cmd, .pyc, or cimalog files
+*.cmd
+p????.cimalog*
+*.pyc
+
+
